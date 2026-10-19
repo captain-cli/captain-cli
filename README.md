@@ -24,9 +24,9 @@ fresh host / terminal
         +-- Publish providers
 ```
 
-Captain's Hook has been absorbed into this package. There is no separate bootstrap
-entry point: the installed executable remains `captain`.
-
+Bootstrap functionality is built directly into Captain CLI.
+There is no separate bootstrap executable:
+the installed command remains `captain`.
 ## Development
 
 Install Captain and the CLI side-by-side, then build:
