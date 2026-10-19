@@ -1,5 +1,7 @@
 # Captain CLI
-
+<p align="center">
+  <img src="./assets/captain-cli-banner.png" alt="Captain CLI — command bridge for the Captain ecosystem" width="100%" />
+</p>
 `captain-cli` is the user-facing entry point for the Captain ecosystem.
 
 It owns terminal concerns and host bootstrap/lifecycle UX: command parsing, help text,
